@@ -1,12 +1,10 @@
 # Code-Wanderer-s-Repo
 
-**Welcome Wanderer!**
+***Welcome Wanderer!***
 
 Here I post the code that I used for the posts on my blog:
 https://codewanderer.science.blog
 
-Code from most recent to latest:
-================================
-*Blog post*: https://codewanderer.science.blog/2019/11/12/making-english-phonemic-again/
-
-*File*: MakingEnglishPhonemicAgain.py
+Code (recent first):
+--------------------
+MakingEnglishPhonemicAgain.py --> https://codewanderer.science.blog/2019/11/12/making-english-phonemic-again/
