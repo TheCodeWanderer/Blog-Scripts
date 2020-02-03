@@ -8,3 +8,4 @@ https://codewanderer.science.blog
 Code (recent first):
 --------------------
 MakingEnglishPhonemicAgain.py --> https://codewanderer.science.blog/2019/11/12/making-english-phonemic-again/
+RidersoftheLostTrack.py --> https://codewanderer.science.blog/2020/02/03/riders-of-the-lost-track-geotagged-photos-to-gpx-route/
