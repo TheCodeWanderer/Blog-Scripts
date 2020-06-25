@@ -3,7 +3,6 @@
 	Multiplayer Super Mario Bros over TCP/IP.
 	Shows the other player as Luigi on the same game screen.
 	Compete to win the level faster than your friends!
-	Currently the other player is non-interacting.
 
 ## INSTALLATION:
 (On both the host and client computer)
@@ -31,3 +30,7 @@
  * fceux-2.2.3-win32
  * luasocket-2.0.2-lua-5.1.2-Win32-vc8
  * lua-gd-2.0.33r2-win32
+
+## NOTES:
+ * Presently the other player is non-interacting.
+ * Future versions may incorporate savestate sharing, interaction, etc...
