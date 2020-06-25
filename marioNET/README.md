@@ -5,25 +5,29 @@
 	Compete to win the level faster than your friends!
 
 ## INSTALLATION:
-(On both the host and client computer)
- 1. Download LuaSocket
- 2. Download Lua-GD 
- 3. Copy the folders lua, mime, socket in LuaSocket to the main directory of FCEUX
- 4. Copy the .dll files in Lua-GD to the main directory of FCEUX
+(*On both the host and client computer*)
+ 1. Download FCEUX
+ 2. Download LuaSocket
+ 3. Download Lua-GD 
+ 4. Copy the folders lua, mime, socket in LuaSocket to the main directory of FCEUX
+ 5. Copy the .dll files in Lua-GD to the main directory of FCEUX
+ 6. Download "marioIMAGES.zip" from repo and unpack it into a folder (e.g. ../FCEUX/luaScripts/marioNET)
+ 7. (*On host computer*) Download "marioNET.lua" from repo and place it into above folder
+ 8. (*On client computer*) Download "marioNET_client.lua" from repo and place it into above folder
 
 ## BEFORE STARTING:
  1. Run Super Mario Bros in FCEUX
  2. Start with Mario
  3. Create a savestate on slot 1 the moment the level starts
-	4. Copy the savestate file (.fc1 extension) in \fcs\ to the same folder on client's computer
- 4. (On client computer) In the "marioNET_client.lua" script file change the default IP address to the host computer's IP
+ 4. Copy the savestate file (.fc1 extension) in \fcs\ to the same folder on client's computer
+ 5. (*On client computer*) In the "marioNET_client.lua" script file change the default IP address to the host computer's IP
 
 ## RUNNING THE SCRIPT:
  1. Start FCEUX
  2. Open ROM -> Super Mario Bros
  3. File -> Lua -> New Lua Script Window...
- 4. (On host computer) Browse -> "marioNET.lua", Press Run
- 4. (On client computer) Browse -> "marioNET_client.lua", Press Run
+ 4. (*On host computer*) Browse -> "marioNET.lua", Press Run
+ 5. (*On client computer*) Browse -> "marioNET_client.lua", Press Run
 
 ## TESTED USING:
  * Windows 7 (64-bit)
