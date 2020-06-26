@@ -1,4 +1,4 @@
-# Code-Wanderer-s-Repo
+# Blog-Scripts
 
 ***Welcome Wanderer!***
 
