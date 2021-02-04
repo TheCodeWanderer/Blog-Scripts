@@ -1,4 +1,10 @@
-""" Loads a SOFA file and visualizes the HRTF amplitude and phase """
+# -*- coding: utf-8 -*-
+"""
+Loads a SOFA file and visualizes the HRTF amplitude and phase
+
+Created on Mon Feb 24 23:08:19 2020
+@author: Ivan
+"""
 #%% Load SOFA file
 
 from SOFASonix import SOFAFile
