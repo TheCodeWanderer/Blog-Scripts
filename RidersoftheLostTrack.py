@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ivan
+"""
 import gpxpy
 import gpxpy.gpx
 from subprocess import check_output
