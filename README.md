@@ -7,6 +7,8 @@ https://codewanderer.science.blog
 
 Code (recent first):
 --------------------
+Shuffle Video Clip.py --> https://codewanderer.science.blog/2022/01/01/shuffling-segments-inside-a-video-clip/
+
 Plot Okinawa Historical Data.py --> https://codewanderer.science.blog/2021/02/04/daily-statistical-climate-of-okinawa/
 
 Visualize HRTF.py --> https://codewanderer.science.blog/2020/05/03/sofalize-this-downmixing-multi-channel-audio-to-stereo/
