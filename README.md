@@ -7,6 +7,9 @@ https://codewanderer.science.blog
 
 Code (recent first):
 --------------------
+
+Discreet Deconvolution using Linear Algebra.py --> https://codewanderer.science.blog/2022/05/23/discreet-deconvolution-using-linear-algebra/
+
 Shuffle Video Clip.py --> https://codewanderer.science.blog/2022/01/01/shuffling-segments-inside-a-video-clip/
 
 Plot Okinawa Historical Data.py --> https://codewanderer.science.blog/2021/02/04/daily-statistical-climate-of-okinawa/
