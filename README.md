@@ -7,6 +7,7 @@ https://codewanderer.science.blog
 
 Code (recent first):
 --------------------
+Binary Integer Programming for Armored Core.py --> https://codewanderer.science.blog/2023/07/04/binary-integer-programming-for-armored-core-answer/
 
 Discreet Deconvolution using Linear Algebra.py --> https://codewanderer.science.blog/2022/05/23/discreet-deconvolution-using-linear-algebra/
 
